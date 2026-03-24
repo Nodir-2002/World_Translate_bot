@@ -3,3 +3,6 @@ deep-translator
 SpeechRecognition
 pydub
 gunicorn
+flask
+fastapi
+uvicorn
